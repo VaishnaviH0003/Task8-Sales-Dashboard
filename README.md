@@ -19,6 +19,6 @@ Design a simple interactive sales dashboard to visualize performance by product,
 - Technology category performed best.
 
 ## Files in Repo
-- `Dashboard_Task8.pdf` – Final dashboard
+- `Dashboard_Task8.twbx` – Final dashboard
 - `Superstore_Sales.csv` – Dataset
 - `insights.txt` – Business insights
